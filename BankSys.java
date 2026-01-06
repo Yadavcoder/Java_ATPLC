@@ -44,7 +44,7 @@ class BankAccount {
     }
 }
 
-public class Bank {
+public class BankSys {
     public static void main(String[] args) {
         BankAccount acc1 = new BankAccount();
         acc1.display();

@@ -49,9 +49,9 @@ public class BankSys {
         BankAccount acc1 = new BankAccount();
         acc1.display();
 
-        BankAccount acc2 = new BankAccount(05, "Mohit", 400000000);
-        acc2.deposit(2000000);
-        acc2.withdraw(15000000);
+        BankAccount acc2 = new BankAccount(05, "Raunak", 9000000);
+        acc2.deposit(200400);
+        acc2.withdraw(250000);
         acc2.display();
     }
 }
